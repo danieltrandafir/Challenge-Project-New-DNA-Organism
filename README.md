@@ -1,4 +1,4 @@
-# Challenge-Project-New-DNA-Organism
+# Codecademy-Challenge-Project-New-DNA-Organism
 Create new mutated objects using a factory function and compare percentage of identical values
 
 This is a Challenge Project from the Full Stack Engineer Path at Codecademy.
