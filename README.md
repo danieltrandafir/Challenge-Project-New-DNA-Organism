@@ -1,16 +1,16 @@
 # Codecademy-Challenge-Project-New-DNA-Organism
-Create new mutated objects using a factory function and compare percentage of identical values
 
+Description
 This is a Challenge Project from the Full Stack Engineer Path at Codecademy.
-The code was not created by me but I fully understand it and can reproduce it.
+I created the code after researching online and studied other users solutions. 
 
 Project Goals............................................................................
- 
+Create a factory object with various methods and keys.
 There are two helper functions: returnRandBase() and mockUpStrand().
 
-When returnRandBase(.) is called, it will randomly select a base and return the base ('A','T','C', or 'G'). DNA is comprised of four bases (Adenine, Thymine, Cytosine, and Guanine). 
+When returnRandBase(.) is called, it will randomly select a DNA base.  
 
-mockUpStrand() is used to generate an array containing 15 bases to represent a single DNA strand with 15 bases.
+mockUpStrand() is used to generate an array containing 15 bases to represent a single DNA strand.
 
 Create a factory function pAequorFactory() that has two parameters: first parameter is a number (no two organisms should have the same number).
 The second parameter is an array of 15 DNA bases.
@@ -24,7 +24,7 @@ For example, if the randomly selected base is the 1st base and it is 'A', the ba
 
   - .compareDNA() has one parameter, another pAequor object.
 
-The behavior of .compareDNA() is to compare the current pAequor‘s .dna with the passed in pAequor‘s .dna and compute how many bases are identical and in the same locations. .compareDNA() does not return anything, but prints a message that states the percentage of DNA the two objects have in common — use the .specimenNum to identify which pAequor objects are being compared.
+The behavior of .compareDNA() is to compare the current pAequor‘s .dna with the passed in pAequor‘s .dna and compute how many bases are identical and in the same locations. .compareDNA() does not return anything, but prints a message that states the percentage of DNA the two objects have in common — used the .specimenNum to identify which pAequor objects are being compared.
 
 In the returned object of pAequorFactory(), add another method .willLikelySurvive().
 
