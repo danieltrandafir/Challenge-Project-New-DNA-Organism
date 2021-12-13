@@ -1,10 +1,10 @@
 # Codecademy-Challenge-Project-New-DNA-Organism
 
-Description
+Description------------------------------------------------------------------
 This is a Challenge Project from the Full Stack Engineer Path at Codecademy.
 I created the code after researching online and studied other users solutions. 
 
-Project Goals............................................................................
+Project Goals----------------------------------------------------------------
 Create a factory object with various methods and keys.
 There are two helper functions: returnRandBase() and mockUpStrand().
 
